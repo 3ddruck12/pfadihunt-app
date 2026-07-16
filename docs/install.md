@@ -21,6 +21,15 @@ Tippe auf die heruntergeladene `pfadihunt.apk` und folge den Dialogen.
 
 Play Protect kann bei unbekannten Apps warnen — das ist bei Sideloading normal.
 
+### Signaturkonflikt beim Update
+
+Meldung *„App-Signaturkonflikt … deinstallieren und erneut installieren“*:
+
+1. Alte Pfadihunt-App **deinstallieren** (Einstellungen → Apps → Pfadihunt → Deinstallieren)
+2. APK **neu herunterladen** und installieren
+
+Das passiert einmalig, wenn zuvor eine Test-APK mit anderer Signatur installiert war. Ab Release-Builds mit festem Keystore funktionieren Updates ohne Deinstallation.
+
 ## Schritt 4: Mit dem Spiel verbinden
 
 1. Spielleiter legt im Admin-Panel einen **Smartphone-Tracker** an
