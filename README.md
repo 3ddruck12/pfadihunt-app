@@ -39,10 +39,10 @@ Der Spielleiter legt im Web-Panel einen Tracker an und zeigt einen **Registrieru
 
 Unter **Einstellungen → Apps → Pfadihunt → Akku** die Akkuoptimierung deaktivieren, damit Tracking bei ausgeschaltetem Display zuverlässig läuft.
 
-## Quellcode
-
-Der Anwendungsquellcode wird im privaten Entwicklungs-Repository gepflegt. Bei Bedarf kann der Quellcode gemäß GPL-3.0 beim Projektverantwortlichen angefordert werden.
-
 ## Lizenz
 
-Die App wird unter der [GNU GPL v3](LICENSE) verteilt.
+Die Pfadihunt-App ist **proprietär** — alle Rechte vorbehalten. Details: [LICENSE](LICENSE).
+
+Der Quellcode ist nicht öffentlich verfügbar. Eine Nutzung der APK ist nur im
+Rahmen der vom Spielleiter bzw. Rechteinhaber gestatteten Pfadihunt-Spiele
+vorgesehen.
